@@ -1,5 +1,5 @@
 # Hello, I'm Tony Nguyen Le 👋
-I'm an aspiring developer, currently in my 3rd year of IT & Information Systems at the University of Agder.
+I'm an aspiring developer, with an bachelors degree of IT & Information Systems from the University of Agder.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyLe02)](https://github.com/TonyLe02/github-readme-stats) 
 
