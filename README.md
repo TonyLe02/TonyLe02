@@ -3,7 +3,7 @@ Software developer at TerraGIS AS / Easy Eiendom AS
 
 Bachelors degree in IT & Information Systems from the University of Agder.
 
-Unfortunately, but most of my projects are privated 🫣
+Unfortunately most of my projects are privated 🫣
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyLe02)](https://github.com/TonyLe02/github-readme-stats) 
 
