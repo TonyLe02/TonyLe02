@@ -1,5 +1,9 @@
-# Hello, I'm Tony Nguyen Le 👋
-I'm an aspiring developer, with an bachelors degree of IT & Information Systems from the University of Agder.
+# Hello, I'm Tony Nguyen Le (23) 👋
+Software developer at TerraGIS AS / Easy Eiendom AS
+
+Bachelors degree in IT & Information Systems from the University of Agder.
+
+Unfortunately, but most of my projects are privated 🫣
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyLe02)](https://github.com/TonyLe02/github-readme-stats) 
 
