@@ -1,11 +1,11 @@
-# Hello, I'm Tony Nguyen Le (23) 👋
+# Hello, I'm Tony Nguyen Le (24) 👋
 Software Developer at Terragis AS / Easy Eiendom AS
 
 Bachelors degree in IT & Information Systems from the University of Agder.
 
 Unfortunately most of my projects are privated 🫣
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyLe02&theme=github)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=tonyle02)](https://www.readmecodegen.com/custom-github-card-generator)
 
 # Wanna learn more about me?
 Check out my portfolio website: https://LeWorks.vercel.app
