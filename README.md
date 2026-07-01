@@ -1,5 +1,5 @@
 # Hello, I'm Tony Nguyen Le (24) 👋
-Software Developer at Terragis AS / Easy Eiendom AS
+Lead Software Engineer at Terragis AS / Easy Eiendom AS
 
 Bachelors degree in IT & Information Systems from the University of Agder.
 
